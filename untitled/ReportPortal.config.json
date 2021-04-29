@@ -1,0 +1,16 @@
+{
+  "reportPortalClientConfig": {
+    "token": "",
+    "endpoint": "",
+    "launch": "",
+    "project": "",
+    "debug": true,
+    "description": "",
+    "tags": [
+
+    ]
+  },
+  "reportSeleniumCommands": false,
+  "seleniumCommandsLogLevel": "debug",
+  "parseTagsFromTestTitle": false
+}
