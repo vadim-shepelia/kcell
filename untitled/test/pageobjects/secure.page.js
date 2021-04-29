@@ -1,4 +1,4 @@
-const Page = require('./Kcell');
+const Page = require('../specs/Kcell');
 
 /**
  * sub page containing specific selectors and methods for a specific page

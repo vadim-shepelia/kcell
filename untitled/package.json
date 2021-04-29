@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "wdio wdio.conf.js --baseUrl='https://mbezpeka.kyivstar.ua/login' --spec=C://Users//VadimShepelia//WebstormProjects//kcell//untitled//test//pageobjects//Kcell.js"
+    "test": "wdio wdio.conf.js --baseUrl='https://mbezpeka.kyivstar.ua/login' --spec=C://Users//VadimShepelia//WebstormProjects//kcell//untitled//test//specs//Kcell.js"
   },
   "description": "Repository for storing automation tests",
   "devDependencies": {
